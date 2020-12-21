@@ -5,6 +5,10 @@ The use of Dynamic Memory Allocation is applied in this program, to be more flex
 
 With the help of Valgrind, there is evidence of no memory leaks.
 
-CMSC257-f20.p2c contains the driver method p2-support.c contains the "Under the Hood" code, which is the code that enables the Database to have it's functionaliy. p2-support.h contains the function headers as well as documentation about the functons
+CMSC257-f20.p2c contains the driver method 
+
+p2-support.c contains the "Under the Hood" code, which is the code that enables the Database to have it's functionaliy. 
+
+p2-support.h contains the function headers as well as documentation about the functons
 
 Worst Case Run Time is O(n^2) due to the Insertion Sort if The Tuples are sorted based off the ID Attribute
